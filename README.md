@@ -18,4 +18,14 @@ Se implementan 3 validaciones, 2 exceptions, se realizan los siguientes pasos:
 - Verifica que el nombre esté correcto y termina la automatización
 - Se repite con la segunda fila de datos del excel
 
+## Correr código en tu máquina
+Para correrlo, te recomiendo tener instalado:
+<ol>
+  <li>IntelliJ Community Edition (este caso, versión 2025)</li>
+  <li>Version de java Amazon Coretto 11 y gradle</li>
+  <li>Plugins utilizados: Cucumber for Java; Gherkin; Lombok</li>
+  <li>Dejar que el IntelliJ cargue todo, y luego ejecutar el realizarCompraRunner</li>
+</ol> 
+Si te falla la automatización a la hora de ingresar el correo, cambia el correo por alguno random u otros números
+
 Link de video de automatización corriendo: <a target="_blank" href="https://www.loom.com/share/d19896932e754fdd91b80755b72af4f5">Ver video</a>
