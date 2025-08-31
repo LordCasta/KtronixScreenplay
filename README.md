@@ -17,3 +17,5 @@ Se implementan 3 validaciones, 2 exceptions, se realizan los siguientes pasos:
 - Continua con el llenado de un formulario de datos del excel
 - Verifica que el nombre esté correcto y termina la automatización
 - Se repite con la segunda fila de datos del excel
+
+Link de video de automatización corriendo: <a href="https://www.loom.com/share/d19896932e754fdd91b80755b72af4f5">Ver video</a>
